@@ -1,5 +1,5 @@
 # Figuras Geometricas
 ## Desarrollador
-| Apellidos y nombres |
-| --- |
-|      |
+| Apellidos y nombres      |
+|--------------------------|
+| Perez Ravelo Angel Simon |
